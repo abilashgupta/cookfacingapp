@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "167384970728",
+    "firebase_url": "https://tiffinboks-4f0e4.firebaseio.com",
+    "project_id": "tiffinboks-4f0e4",
+    "storage_bucket": "tiffinboks-4f0e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167384970728:android:37e83e07eb40690bd0a05d",
+        "android_client_info": {
+          "package_name": "com.example.cook_face"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167384970728-vdtb4n1dv6rcckbktetqkq6lp6h7a9um.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQE9LnZ6EhcmN1phTpyHXLOD51lKZzzj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167384970728-vdtb4n1dv6rcckbktetqkq6lp6h7a9um.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
