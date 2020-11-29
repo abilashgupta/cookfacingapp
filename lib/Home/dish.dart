@@ -1,3 +1,4 @@
+import 'package:cook_face/Home/cookprofile.dart';
 import 'package:flutter/material.dart';
 import 'package:smooth_star_rating/smooth_star_rating.dart';
 import 'package:cook_face/icons/border_minus.dart';
@@ -48,7 +49,10 @@ class _DishState extends State<Dish> {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       InkWell(
-                        onTap: (){},
+                        onTap: (){
+                          Navigator.push(context,
+                  MaterialPageRoute(builder: (context) => CookProfile()));
+                        },
                         child: Row(
                           children: [
                             Align(
